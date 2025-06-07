@@ -3,8 +3,8 @@
  # Email 
 
 A simple Python script that takes an email address as input and splits it into the username and domain parts. This is a great beginner-friendly project for practicing string manipulation and user input in Python.
- ---
 
+---
 # Features
   - Prompts the user to enter an email address.
   - Extracts and displays the username (before the @ symbol).
@@ -33,6 +33,7 @@ A simple Python script that takes an email address as input and splits it into t
 
 A simple Python script that slices an email address into its username and domain parts using the split() method. This project is ideal for beginners to practice string manipulation and user input in Python.
 
+---
 # Features
   - Prompts the user to enter an email address.
   - Splits the email into username and domain using Python’s split() method.
