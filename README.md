@@ -1,8 +1,9 @@
 # Email-Slicer
 
  # Email 
-A simple Python script that takes an email address as input and splits it into the username and domain parts. This is a great beginner-friendly project for practicing string manipulation and user input in Python.
 
+A simple Python script that takes an email address as input and splits it into the username and domain parts. This is a great beginner-friendly project for practicing string manipulation and user input in Python.
+ ---
 
 # Features
   - Prompts the user to enter an email address.
